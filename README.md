@@ -27,7 +27,7 @@
 <h2>MÉTODO POST 🚩</h2>
 <figure>
   <figcaption>
-    <img width="1368" height="811" alt="image" src="https://github.com/user-attachments/assets/c5788eed-4a09-4189-b8d9-9837562c504b" />
+  <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/fd47084a-a828-402a-8ad4-619c690331b9" />
 <i> Imagem 2: Método POST via POSTMAN
   </figcaption>
 </figure>
